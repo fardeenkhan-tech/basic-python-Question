@@ -125,26 +125,4 @@ After completing these questions, you will understand:
 
 **Fardeen Khan**
 
-Aspiring Data Scientist & Machine Learning Engineer
-
-GitHub: https://github.com/your-github-username
-
-## How to Run
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-github-username/repository-name.git
-```
-
-Open Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-Run the notebook cells one by one.
-
----
-
-⭐ If this repository helps you, don't forget to give it a Star.
+Aspiring Data Scientist & Machine Learning Engineer 
